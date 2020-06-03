@@ -1,1 +1,1 @@
-# friend
+# friend.com
