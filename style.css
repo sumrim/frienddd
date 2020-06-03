@@ -39,6 +39,9 @@ nav ul ul {display: none;
            position: absolute;
            top: 80%;
            font-size: 15px;
-           }
+           align-content: center}
 
-nav li:hover > ul {display: block;}
+nav li:hover > ul {display: block; 
+                   left: 0;}
+
+
